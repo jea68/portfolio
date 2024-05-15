@@ -1,8 +1,8 @@
 # portfolio
 
 ### Education
-University of Cambridge
-Engineering, Masters
+
+ MEng Engineering | University of Cambridge
 
 ### Work Experience
 Software & Electrical Engineer
