@@ -1,10 +1,7 @@
 # Joshua Abu's Portfolio
 Welcome to my GitHub! I am a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
 
-## About Me
-I have a strong foundation in probabilistic machine learning, deep learning, software engineering, and data analytics. My academic journey has equipped me with a diverse skill set, including programming in Python, C/C++, and SQL, as well as experience with embedded systems and circuit design. I am always eager to learn and explore new technologies, and I thrive in dynamic and challenging environments.
-
-### Education
+## Education
  MEng Engineering | University of Cambridge
 
  Relevant Modules: Probabilistic Machine Learning, Deep Learning & Structured Data, Software Engineering and Design, Information Theory & Coding, Probability & Statistics, Quantum Mechanics, Accounting & Finance, and Business Economics.
