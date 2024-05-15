@@ -6,6 +6,8 @@ I have a strong foundation in probabilistic machine learning, deep learning, sof
 
 ### Education
  MEng Engineering | University of Cambridge
+
+ Relevant Modules: Probabilistic Machine Learning, Deep Learning & Structured Data, Software Engineering and Design, Information Theory & Coding, Probability & Statistics, Quantum Mechanics, Accounting & Finance, and Business Economics.
  
 ## Academic Projects
 #### Probabilistic Ranking (Machine Learning and Python)
@@ -39,6 +41,9 @@ I analyzed potential acquisitions and assisted in deal execution at CVC Capital 
 
 ## Skills
 Programming Languages: Python, C/C++, SQL, Embedded C
+
 Technologies: Machine Learning, Data Analytics, Probability & Statistics, Circuit Design, RESTful APIs.
+
 Tools: Excel, Research Databases (Pitchbook, Preqin, Orbis), Docker, Firebase, Google Cloud Platform
+
 Interests: Powerlifting, Coaching/Playing Basketball, Tutoring/Mentoring, Solving math and coding problems
