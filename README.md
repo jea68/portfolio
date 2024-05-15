@@ -5,16 +5,6 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
  MEng Engineering | University of Cambridge
 
  Relevant Modules: Probabilistic Machine Learning, Deep Learning & Structured Data, Software Engineering and Design, Information Theory & Coding, Probability & Statistics, Quantum Mechanics, Accounting & Finance, and Business Economics.
- 
-## Academic Projects
-### Probabilistic Ranking (Machine Learning and Python)
-Description: Implemented various machine learning techniques such as Gibbs sampling and Expectation Propagation to compute the TrueSkill of sports players based on match results.
-Technologies: Python, Gaussian Processes, Regression Models
-### Graphene-based Electrochemical Sensors and FETs 
-  (Thesis - First Class with Distinction)
-Description: Developed cutting-edge sensors for real-time monitoring of NPY Biomarker concentrations in sweat to assess psychological stress levels.
-Outcome: Achieved First Class with Distinction
-Technologies: Raman Spectroscopy Chemical Engineering, Graphene FETs, Electrochemical Sensors
 
 ## Personal Projects and Competitions
 
@@ -27,6 +17,15 @@ Key Concepts: Market Microstructure
 Description: Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
 Tech Stack: TypeScript, Next.js, Express.js, Docker, FFmpeg, Firebase Auth, Firebase Functions, Firebase Firestore, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 
+## Academic Projects
+### Probabilistic Ranking (Machine Learning and Python)
+Description: Implemented various machine learning techniques such as Gibbs sampling and Expectation Propagation to compute the TrueSkill of sports players based on match results.
+Technologies: Python, Gaussian Processes, Regression Models
+### Graphene-based Electrochemical Sensors and FETs 
+  (Thesis - First Class with Distinction)
+Description: Developed cutting-edge sensors for real-time monitoring of NPY Biomarker concentrations in sweat to assess psychological stress levels.
+Outcome: Achieved First Class with Distinction
+Technologies: Raman Spectroscopy Chemical Engineering, Graphene FETs, Electrochemical Sensors
 
 ## Professional Experience
 ### Software and Electrical Engineer at Cambridge Heartwear
