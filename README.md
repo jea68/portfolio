@@ -9,7 +9,7 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 ## Personal Projects and Competitions
 
 ### Execution Research Project (Quantitative Research and Data Science)
-Description: Analyzed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
+Description: Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
 
 Technologies: Python, Pandas, NumPy, Logistic Regression, Random Forest Regression
 
