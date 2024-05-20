@@ -7,19 +7,21 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 
 ## Personal Projects and Competitions
 
+### Predicting Stock Price Movements (Machine Learning)
+- **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
+- **Technologies:** Python, Pandas, NumPy, LightGBM, LSTM
+- **Link:** [Predicting Stock Price Movements](https://github.com/jea68/Predicting_StockPrice_Movements)
+
 ### Execution Research Project (Quantitative Research and Data Science)
 - **Description:** Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
 - **Technologies:** Python, Pandas, NumPy, Logistic Regression, Random Forest Regression
 - **Key Concepts:** Market Microstructure
+- **Link:** [Trading Analyisis](https://github.com/jea68/Predicting_StockPrice_Movements)
 
 ### YouTube Clone (Full Stack Development)
 - **Description:** Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
 - **Tech Stack:** TypeScript, Next.js, Express.js, Docker, FFmpeg, Firebase Auth, Firebase Functions, Firebase Firestore, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 
-### Predicting Stock Price Movements (Machine Learning)
-- **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
-- **Technologies:** Python, Pandas, NumPy, LightGBM, LSTM
-- **Link:** [Predicting Stock Price Movements](https://github.com/jea68/Predicting_StockPrice_Movements)
 
 ## Academic Projects
 
