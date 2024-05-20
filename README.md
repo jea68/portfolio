@@ -16,7 +16,7 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 - **Description:** Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
 - **Technologies:** Python, Pandas, NumPy, Logistic Regression, Random Forest Regression
 - **Key Concepts:** Market Microstructure
-- **Link:** [Trading Analyisis](https://github.com/jea68/Predicting_StockPrice_Movements)
+- **Link:** [Trading Analyisis](https://github.com/jea68/Predicting_StockPrice_Movements](https://github.com/jea68/Execution-Research-Project))
 
 ### YouTube Clone (Full Stack Development)
 - **Description:** Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
