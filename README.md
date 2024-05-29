@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 ## Personal Projects
 ### YouTube Clone (Full Stack Development)
 - **Description:** Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
-- **Tech Stack:** TypeScript, Next.js, Express.js, Docker, FFmpeg, Firebase Auth, Firebase Functions, Firebase Firestore, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
+- **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 
 ### Predicting Stock Price Movements (Machine Learning)
 - **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
