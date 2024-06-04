@@ -6,10 +6,6 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
   - *Relevant Modules:* Probabilistic Machine Learning, Deep Learning & Structured Data, Software Engineering and Design, Information Theory & Coding, Probability & Statistics, Quantum Mechanics, Accounting & Finance, and Business Economics.
 
 ## Personal Projects
-### YouTube Clone (Full Stack Development)
-- **Description:** Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
-- **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
-
 ### Predicting Stock Price Movements (Machine Learning)
 - **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
 - **Technologies:** Python, Pandas, NumPy, LightGBM, LSTM
@@ -20,6 +16,12 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 - **Technologies:** Python, Pandas, NumPy, Logistic Regression, Random Forest Regression
 - **Key Concepts:** Market Microstructure
 - **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
+
+### YouTube Clone (Full Stack Development)
+- **Description:** Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
+- **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
+
+]
 
 
 
