@@ -21,9 +21,6 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 - **Description:** Developed a YouTube clone showcasing my full-stack development skills using modern web technologies and cloud services.
 - **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 
-]
-
-
 
 ## Academic Projects
 
