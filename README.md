@@ -7,19 +7,19 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 
 ## Personal Projects
 ### YouTube Clone (Full Stack Development)
-- **Description:** Developed a YouTube Skeleton showcasing my full-stack development skills using modern web technologies and cloud services.
+- **Description:** Developed a YouTube Skeleton showcasing my full-stack development skills using modern web technologies and cloud services. You can upload, process, and watch videos, and it also includessign-in functions. 
 - **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 - **Links:** [Link to WebApp](https://yt-web-client-immn7fa7pa-uc.a.run.app) and [Repository](https://github.com/jea68/Youtube-Clone)
 - *(nb. google cloud services may not be running)*
 
 ### Predicting Stock Price Movements (Machine Learning)
 - **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
-- **Technologies:** Python, Pandas, NumPy, LightGBM, LSTM
+- **Technologies:** Python, Pandas, NumPy, Sci-kit-learn, Tensorflow, LightGBM, LSTM
 - **Link:** [Predicting Stock Price Movements](https://github.com/jea68/Predicting_StockPrice_Movements)
 
 ### Execution Research Project (Quantitative Research and Data Science)
 - **Description:** Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
-- **Technologies:** Python, Pandas, NumPy, Logistic Regression, Random Forest Regression
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression
 - **Key Concepts:** Market Microstructure
 - **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
 
@@ -45,8 +45,8 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 
 ## Skills
 - **Programming Languages:** Python, C/C++, SQL, Embedded C
-- **Technologies:** Machine Learning, Data Analytics, Probability & Statistics, Circuit Design, RESTful APIs.
-- **Tools:** Excel, Financial Research Databases (Pitchbook, Preqin, Orbis), Docker, Firebase, Google Cloud Platform
+- **Knowledge:** Machine Learning, Data Analytics, Probability & Statistics, RESTful APIs.
+- **Tools:**  Docker, Firebase, Google Cloud Platform, Excel, Financial Research Databases (Pitchbook, Preqin, Orbis)
 - **Interests:** Powerlifting, Coaching/Playing Basketball, Tutoring/Mentoring, Solving math and coding problems
 
 *(nb. development of page ongoing)*
