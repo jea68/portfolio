@@ -1,4 +1,5 @@
-![Profile pic](/asset/Gradpic1.jpeg)
+![Profile pic](/asset/Grad pic1.jpeg)
+
 # Joshua Abu's Portfolio
 Welcome to my GitHub! I am a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
 
