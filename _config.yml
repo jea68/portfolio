@@ -1,5 +1,5 @@
 title: Joshua Abu
-#logo:relative file of your pic
-#description: trxt below image
+logo: assets/Gradpic1.jpeg
+description: summary portfolio
 show_downloads: false
 theme: jekyll-theme-minimal  # can see other supported themes
