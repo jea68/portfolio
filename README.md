@@ -1,5 +1,5 @@
 ## Intro
-Welcome to my GitHub :) ! I am a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
+Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
 
 ## Personal Projects
 ### YouTube Clone (Full Stack Development)
