@@ -1,16 +1,12 @@
 ## Intro
-Welcome to my GitHub! I am a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
-
-## Education
-- **MEng Engineering** | University of Cambridge
-  - *Relevant Modules:* Probabilistic Machine Learning, Deep Learning & Structured Data, Software Engineering and Design, Information Theory & Coding, Probability & Statistics, Quantum Mechanics, Accounting & Finance, and Business Economics.
+Welcome to my GitHub :) ! I am a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
 
 ## Personal Projects
 ### YouTube Clone (Full Stack Development)
 - **Description:** Developed a YouTube Skeleton showcasing my full-stack development skills using modern web technologies and cloud services. You can upload, process, and watch videos, and it also includes sign-in functions. 
 - **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 - **Links:** [Link to WebApp](https://yt-web-client-immn7fa7pa-uc.a.run.app) and [Repository](https://github.com/jea68/Youtube-Clone)
-- *(nb. google cloud services may not be running)*
+- *(nb. google cloud services may not be currently running :( )*
 
 ### Predicting Stock Price Movements (Machine Learning)
 - **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
@@ -51,7 +47,7 @@ Welcome to my GitHub! I am a recent graduate from the University of Cambridge wi
 ## Skills
 - **Programming Languages:** Python, C/C++, SQL, Embedded C
 - **Knowledge:** Machine Learning, Data Analytics, Probability & Statistics, RESTful APIs.
-- **Tools:**  Docker, Firebase, Google Cloud Platform, Excel, Financial Research Databases (Pitchbook, Preqin, Orbis)
+- **Tools:**  AWS (EC2 and S3), dbt, Metabase, Docker, Firebase, Google Cloud Platform, Excel, Financial Research Databases (Pitchbook, Preqin, Orbis)
 - **Interests:** Powerlifting, Coaching/Playing Basketball, Tutoring/Mentoring, Solving math and coding problems
 
 *(nb. development of page ongoing)*
