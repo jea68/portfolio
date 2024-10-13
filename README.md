@@ -6,7 +6,7 @@ Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge
 - **Description:** Developed a YouTube Skeleton showcasing my full-stack development skills using modern web technologies and cloud services. You can upload, process, and watch videos, and it also includes sign-in functions. 
 - **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
 - **Links:** [Link to WebApp](https://yt-web-client-immn7fa7pa-uc.a.run.app) and [Repository](https://github.com/jea68/Youtube-Clone)
-- *(nb. google cloud services may not be currently running :( )*
+- *(nb. google cloud services may not be currently running )*
 
 ### Predicting Stock Price Movements (Machine Learning)
 - **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
