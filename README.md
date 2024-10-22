@@ -1,7 +1,13 @@
 ## Intro
-Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, data science, and machine learning, and I enjoy tackling complex coding problems and developing innovative solutions.
+Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, machine learning and finance, and I enjoy tackling complex coding problems and developing innovative solutions.
 
 ## Personal Projects
+### Execution Research Project (Quantitative Research and Data Science)
+- **Description:** Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression
+- **Key Concepts:** Market Microstructure
+- **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
+
 ### YouTube Clone (Full Stack Development)
 - **Description:** Developed a YouTube Skeleton showcasing my full-stack development skills using modern web technologies and cloud services. You can upload, process, and watch videos, and it also includes sign-in functions. 
 - **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
@@ -13,11 +19,6 @@ Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge
 - **Technologies:** Python, Pandas, NumPy, Sci-kit-learn, Tensorflow, LightGBM, LSTM
 - **Link:** [Predicting Stock Price Movements](https://github.com/jea68/Predicting_StockPrice_Movements)
 
-### Execution Research Project (Quantitative Research and Data Science)
-- **Description:** Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
-- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression
-- **Key Concepts:** Market Microstructure
-- **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
 
 
 ## Academic Projects
