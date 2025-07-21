@@ -3,7 +3,7 @@ Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge
 
 ## Personal Projects
 ### Execution Research Project (Quantitative Research and Data Science)
-- **Description:** Analysed trading data to improve success rates of orders sent in a high-frequency trading environment. Investigated metrics for success rates and used machine learning models to improve latency and order success rates.
+- **Description:** Conducted a detailed empirical study of order execution performance on a price-time priority, order-driven market, focusing on minimising adverse selection and improving fill probabilities under latency constraints.
 - **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression
 - **Key Concepts:** Market Microstructure
 - **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
