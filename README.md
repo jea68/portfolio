@@ -1,13 +1,7 @@
 ## Intro
-Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, machine learning and finance, and I enjoy tackling complex coding problems and developing innovative solutions.
+Welcome to my GitHub! I'm a recent graduate from the University of Cambridge with a degree in Information and Electrical Engineering. My passion lies in the intersection of engineering, machine learning and finance, and I enjoy tackling complex coding problems and developing innovative solutions.
 
 ## Personal Projects
-### Execution Research Project (Quantitative Research and Data Science)
-- **Description:** Conducted a detailed empirical study of order execution performance on a price-time priority, order-driven market, focusing on minimising adverse selection and improving fill probabilities under latency constraints.
-- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression
-- **Key Concepts:** Market Microstructure
-- **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
-
 ### YouTube Clone (Full Stack Development)
 - **Description:** Developed a YouTube Skeleton showcasing my full-stack development skills using modern web technologies and cloud services. You can upload, process, and watch videos, and it also includes sign-in functions. 
 - **Tech Stack:** TypeScript, Node.js, Next.js, Express.js, Docker, FFmpeg, Firebase, Google Cloud Storage, Google Cloud Pub/Sub, Google Cloud Run
@@ -18,6 +12,13 @@ Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge
 - **Description:** Developed a model to predict stock price movements using data from the order book and the closing auction of the stock. 
 - **Technologies:** Python, Pandas, NumPy, Sci-kit-learn, Tensorflow, LightGBM, LSTM
 - **Link:** [Predicting Stock Price Movements](https://github.com/jea68/Predicting_StockPrice_Movements)
+
+
+### Execution Research Project (Quantitative Research and Data Science)
+- **Description:** Conducted a detailed empirical study of order execution performance on a price-time priority, order-driven market, focusing on minimising adverse selection and improving fill probabilities under latency constraints.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression
+- **Key Concepts:** Market Microstructure
+- **Link:** [Trading Analyisis](https://github.com/jea68/Execution-Research-Project)
 
 
 
@@ -35,7 +36,7 @@ Welcome to my GitHub :D ! I'm a recent graduate from the University of Cambridge
 ### Graphene-based Electrochemical Sensors and FETs (Thesis)
 - **Description:** Developed cutting-edge sensors for real-time monitoring of NPY Biomarker concentrations in sweat to assess psychological stress levels.
 - **Outcome:** Achieved First Class with Distinction
-- **Technologies:** Raman Spectroscopy Chemical Engineering, Graphene FETs, Electrochemical Sensors
+- **Technologies:** Raman Spectroscopy, Chemical Engineering, Graphene FETs, Electrochemical Sensors
 
 ## Professional Experience
 
