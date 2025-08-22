@@ -42,6 +42,7 @@ Welcome to my GitHub! I'm a recent graduate from the University of Cambridge wit
 
 ### Software and Electrical Engineer at Cambridge Heartwear
 - **Responsibilities:** Developing ECG devices with embedded software, integrating ML algorithms for data classification, and optimizing real-time patient monitoring solutions.
+- **Link:** https://www.occhipintigroup.com/
 
 ### Internships in Private Equity
 - **Responsibilities:** Included LBO modelling, M&A, Leveraged Finance and Capital Markets, and Market research. Analyzed potential acquisitions and assisted in deal execution at CVC Capital Partners and Hg Capital.
