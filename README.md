@@ -48,8 +48,7 @@ Welcome to my GitHub! I'm a recent graduate from the University of Cambridge wit
 
 ## Skills
 - **Programming Languages:** Python, C/C++, SQL, Embedded C
-- **Knowledge:** Machine Learning, Data Analytics, Probability & Statistics, RESTful APIs.
 - **Tools:**  AWS (EC2 and S3), dbt, Metabase, Docker, Firebase, Google Cloud Platform, Excel, Financial Research Databases (Pitchbook, Preqin, Orbis)
-- **Interests:** Powerlifting, Coaching/Playing Basketball, Tutoring/Mentoring, Solving math and coding problems
+- **Interests:** Powerlifting, Coaching/Playing Basketball, Tutoring/Mentoring, Solving Problems
 
 *(nb. development of page ongoing)*
